@@ -1,4 +1,4 @@
-// index
+// index 
  $(document).ready(function(){
     $('#formHP').submit(function(e) {
     event.preventDefault();
